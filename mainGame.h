@@ -24,8 +24,8 @@ typedef struct _player {
 void delay(int seconds){
   int c = 1, d = 1;
 
-  for ( c = 1 ; c <= 0*15000*seconds ; c++ )
-  for ( d = 1 ; d <= 0*15000*seconds ; d++ )
+  for ( c = 1 ; c <= 15000*seconds ; c++ )
+  for ( d = 1 ; d <= 15000*seconds ; d++ )
   {}
 
 }
