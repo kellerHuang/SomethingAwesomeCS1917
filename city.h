@@ -6,7 +6,7 @@ void printRuins(void);
 
 void printCity(void){
   printf("\n                                ____                /  \\       \n");
-  printf("  /     \\      x    |     |    /____/|  |     |    /____\\         \n$
+  printf("  /     \\      x    |     |    /____/|  |     |    /____\\         \n");
   printf(" /_______\\    xxx   |  |  |   |  _  ||  |  |  |    |    |     \n");
   printf("  |     |    xxxxx  |     |   | | | ||  |     |    | xx |     \n");
   printf("  |     |      x    |  |  |   |_| |_|/  |  |  |    | xx |     \n");
